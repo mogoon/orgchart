@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#2f6f4e"/>
+  <g fill="none" stroke="#ffffff" stroke-width="12" stroke-linecap="round">
+    <!-- connectors -->
+    <path d="M256 214 V270"/>
+    <path d="M150 270 H362"/>
+    <path d="M150 270 V300"/>
+    <path d="M256 270 V300"/>
+    <path d="M362 270 V300"/>
+  </g>
+  <g fill="#ffffff">
+    <!-- top node -->
+    <rect x="186" y="150" width="140" height="68" rx="16"/>
+  </g>
+  <g fill="#e7f1ea" stroke="#ffffff" stroke-width="6">
+    <!-- child nodes -->
+    <rect x="104" y="300" width="92" height="64" rx="14"/>
+    <rect x="210" y="300" width="92" height="64" rx="14"/>
+    <rect x="316" y="300" width="92" height="64" rx="14"/>
+  </g>
+</svg>
